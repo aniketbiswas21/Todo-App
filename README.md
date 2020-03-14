@@ -6,6 +6,9 @@ A simple todo app where you can add or delete tasks!
 
 ![todo3](https://user-images.githubusercontent.com/51146347/76684874-69a5e100-6635-11ea-8132-8633a9c9a9b4.png)
 
+![todo4](https://user-images.githubusercontent.com/51146347/76685132-69a6e080-6637-11ea-8b57-df0936e3df87.png)
+
+
 ## Tools Used
 1. ReactJS
 2. Materialized CSS (https://materializecss.com/)
